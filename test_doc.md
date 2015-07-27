@@ -10,3 +10,5 @@ print('And eternity in an hour')
 ```
 
 2. Here's a second item.
+
+3. Here's a third item with a snippet of ```code```.
