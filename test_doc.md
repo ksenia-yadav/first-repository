@@ -14,3 +14,6 @@ print('And eternity in an hour')
 3. Here's a third item with a snippet of ```code```.
 
 4. Here's a fourth item with <del> depricated stuff</del> .
+
+5. Here's a link to GitHub: https://github.com
+
